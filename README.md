@@ -1,1 +1,1 @@
-# proj1cpsc323
+The program reads in a file named "input_scode.txt" using an ifstream object named "fin". It then opens an ofstream object named "fout" to write the results to a file named "output.txt". Furthermore, the program will test the read Input Source Code and test for the following conditions: Keyword, seperator, identifier, operator, real, and categorize them into two columns: token and lexeme. To set up and run simply upload or copy and paste the file "main.cpp" into a text editor along with the txt file "input_scode.txt" and compile to recieve the output. 
