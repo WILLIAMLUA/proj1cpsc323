@@ -23,6 +23,7 @@ bool isKeyword(string key) {
     return false;
 }
 
+// lexer function
 int main() {
     char ch;
     string key = "", k = "";
